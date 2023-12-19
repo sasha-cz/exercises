@@ -1,0 +1,1 @@
+For the challenge description see:  [https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
