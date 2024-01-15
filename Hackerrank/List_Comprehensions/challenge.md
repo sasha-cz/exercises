@@ -1,0 +1,1 @@
+For the challenge description see: [https://www.hackerrank.com/challenges/list-comprehensions/problem](https://www.hackerrank.com/challenges/list-comprehensions/problem)
