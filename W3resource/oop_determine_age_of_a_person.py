@@ -1,6 +1,6 @@
 # Task: Write a Python program to create a person class. Include attributes like name, country and date of birth. Implement a method to determine the person's age.
 
-#Import the datetime class as d from the module datetime.
+#Import the datetime class as d and the date class from the module datetime.
 from datetime import date, datetime as d
 
 # Define a class called 'Person' to represent a person with a name, country and date of birth.
